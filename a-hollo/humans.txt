@@ -1,0 +1,125 @@
+﻿Kedves irodalomkedvelő, kihalófélben lévő egyéniség!
+
+Még kész szerencse, hogy Tóth Árpád olyan szépen fordította le ezt
+a verset, hogy egyenesen börtönbe vetettem volna magam, ha az eredeti
+angol szöveg mellett nem csinálok külön oldalt a magyar fordításnak.
+
+Nagyon kevés hivatkozást találtam, amit érdemes volt belinkelni, szóval
+aki igazi érdekességekre vágyik, annak az angol linkeket ajánlom,
+ahol digitális gyűjtemények, kéziratok és személyes tárgyak
+tömkelege található.
+
+Régen, az iskolámban ezzel a verssel nyertem szavalóversenyt, még
+ma is felmondom magamban, ha kedvem van meghalni. Félreértés ne essék,
+nem vagyok egy öngyilkos depressziós vadállat (általában), nem járok
+feketében, sem pentagrammal a homlokomon, egyszerűen csak szeretem ezt a verset.
+
+Aki kedveli a filmeket (helyenként apró B kategóriás beütéssel is), annak
+szeretettel ajánlom figyelmébe ezt a listát.
+
+(Psszt...Egyik sincs fenn a YouTube-on!)
+
+The Fall of the House of Usher (1960)
+The Pit and the Pendulum (1961)
+The Premature Burial (1962)
+Tales of Terror (1962)
+The Haunted Palace (1963)
+The Raven (1963)
+The Masque of the Red Death (1964)
+The Tomb of Ligeia (1964)
+
+Ha van valami észrevételed (és bocsáss meg, hogy tegezlek, de nem látok
+át a monitor másik oldalára), esetleg tudsz még ajánlani jó forrásokat,
+küldj egy levelet. Azonban egy sima köszönömnek is nagyon fogok örülni. =)
+
+Éljenek az orángutánok!
+
+Zámbó Gergő
+
+
+
+/* FEJLESZTŐ */
+
+Web designer: Zámbó Gergő
+Elérhetőség: zambo_gergo@hotmail.com
+Tartózkodási hely: Budapest
+
+/* KÖSZÖNET */
+
+Edgar Allan Poe
+Tóth Árpád
+Nyugat
+A magyartanárom
+
+/* OLDAL */
+
+Utolsó frissítés: 2013/05/20
+Szabványok: HTML5, CSS3
+Komponensek: HTML5 Boilerplate, Normalize.css
+Programok: Adobe Photoshop, Notepad++, Typecast
+
+
+
+                                               =7OO8ZO888:
+                                     ,88DDD8OO88O88DD8O~88
+                                 $NDDDD8O$ZZ$77O8DDD8DDD8D.O
+                               DDNNDD88OIZZ8O88DDDD8DDDDD888O8
+                       8DDDDODNNDDND8D8O7?+$88DDDD8DDDDDDDDDDDD~
+                   88O8ODDN8DDDNNNNDDD88OI8O8DDDDDDDDDD8DO8DDDDZ
+                ,NDD8DDDNDOOO$Z8DDNDDO$88DDD8DDDDNDDDDDDD8DDDDDNDO
+              ZNNNDDDZZ88I?=7++++?+??$777ZOOODNDDNNDD8DNNNOZDNNNNNDN
+             DNND$8D8DO7+~:~::::::,:,,,,:::=$8DDDNNNNNNNNNN8NNNNNND...:
+           DDDOODDNDDI=~~:::,:,,,,,,,,,,,,,,,:==$8DDDDNNNNNNNNNNNNNNNDI
+          DDDDNNNDO7=~::::,:,,,,,,,,,,,,,,,,,,::~~~=??7$Z8NNNNNNNNNMMDO
+        Z8DDNNNNNO?=~:::::,,,,,,,,,.,,,,,,,,,,,,:::::~=~=I7ZDNNDDDNMM8D
+       DDD8DNNNND7=~~::::,,,,,,,,,,,,,,,,,,,,,,:::::~:=~==I$8NNNZONNMNND
+      DD8DDDNMNNO+~~~~::,,::,,,,,,,,,,,,,,,,,,,,::::~~~~==?7ONNNNNNNND=
+     DNDDPTNNMNNZ+=~::::::::,::,,,,,,,,,,,,,,::::::::~~~=?II$NNNMMNNNNN
+     DNND8DDNDNN7==~~~~:::::::::::,::::::::,:,::::::~:~=~+7$ONNNNN8NDO8
+     NNNDNDDNONN$?==~~~~:::::::::::::::::::::::::~:::~~~=+?7ODNNNN8DDD8=
+     NNNNNDNDNNNO?+~~~~::::::~:::::::::~~::::::::~:~::~=++I$8NNNNNDNNNN
+     8NNNNNNNMNNOI+=~~~::::::~:::::::::~~~:~:::~::::::~~=?7ZDNNNODDDNNNZ
+    8 NNNNNNMNNDDI+==~::::::::::::~:::~:~~:~::::::::,::~~?7I8NNNNNODONDO
+    DNNNDNMNMNMNN7+==~~::::::::::~~~~~~:=~~::::::::,:::~~=+IDNNNNN8DDD88
+    8NNN8NDNMNMMN7=+~~:~~~~=I7O8NNDO$=::~~~?$D8Z8Z$$ZI=~=???DNNNNDDNNNDD.O
+     DNNNDNMNN8NNI===~?I7ONDNDDDDDNNZ:,,:~IDNNDDNND8$$DD+++?DNNNNNZDNMNNN8
+     =NN88NMNNNMN?=~~=++7D$NN?NNOD8DD:,,:+IO8DONNNN$ZOI$$~:?NNNNNNNNNDMN
+     NNNNNDDMNMNN?=::~$DDD7~8OI~I+=7=:,,:+IZ~7$~8NO~$ODZI::=DNMMNN8NNMNDO
+   77NMMNNNNDNMNN7=~:::::~+=~~~+==~++:,::++~::~:,:~:+$7?~::=DNNMNN8NDNNNN8
+     NNNNNNDNNMNN7=~~~::::::~~===~~~=:,:~+=:::::::==~==~:::INNNNN8ONNNDNN8
+     DDNNNNNMNMNN?=~~:::::::~=+~::~~~:::=+=:,::::::~~=~:::~?NNNDNNDNNNNN
+     DNNNNMNNNNM8~==~:::::::::,:::~~~::~=?+~:,:::===::::::~?8DNNNNNNDDNNN
+     N8NNNMNMN88D~==~~:~::::::::~~=~::,:=+I~::::,,,,:,::~+I+8DZNNNNNNNND.Z
+      ONNNNMNNOI~~=~=~~~:::~::::=I::::::~+=+=~:::::,:~~==??=$$7DNNNNNDO88
+     8NNNMNNNNO~=~=+=~~~~::::~~??+~~:,::~===?~:~::::~~==?I+:~IZDNNNNNNNN
+       NNNNNNNN$~~~+=~~~=~~~=~=~::D?~~~~+?OO~~:::~~~~==+??~,,7NNNNNNNDZ
+      DDONNMMNNN8+=++=~~~~~~~::::~8ND888NN8=::::~~~~=~=???:,=DNNNNND7,
+      DZD88NMPEMMNO?+===~~~::::~=ODNDNNNNNO~::::~:~~~==+++O8DNNDDDD87
+         DNNNMMMMMN+====~~:::~77??88888DDDD?=~:::::::~~=++NDNNNNDO~
+            NNNNNMNI==~~:::,~ZNNDDDDO+=ID88Z7?+:::,::~=?=OND8OZ
+               DNMNZI+==~:::~$I~~~:,,:~~=ZDDNNN=::::~=+??DNI$
+                   +7?+===~===~:::~=?+?===?=+IZ+:~~~~++??   
+                    ~7II++===~~~~::,::::~~~~~:~:~~=~=??:
+                   ,:DZ7I?+=~~:::,:,,,,,,,::~~~:=+=++I::
+                    :8OZ7?++~~~:::,:::::,::~~===+I+?$:.=
+                    ~,I$ZI7?+=~~::::::::::::=+?I77ZO,..$
+                    +,,:IO77I7I+===~~~~~~~~~=IZZ$DI,...::
+                    =:,,,+7Z77ZO88$II?I7I+IZZZ$DD:,...:,~
+                    =?,,,,~=?Z8ZZZOO8OO8OZOOOOD8,,...:,+=~
+                  NN$~$~,,,,~=+7O8D888O88DD8DDZ,,.,~~:$=:~8D+
+                $NNN?~,=OD8~,,,~+ZZ8O888D888$~:=$$+:I:,~~~8D8DD
+               +NMNN==:=,ZOO8Z88$7=7I77$77OZI?$O?=+,,:,:+:OD8DD
+               NNNNN++~,,=~78+::~+$OOZ?+=::IO+,?=,:,,:=,~7+D8DD8
+              NNMNNNI+::~,,:~:I$ZOZ+~==,:,,:~+:,,,,::,:I+,ODDDDD
+             NNNNNNNN==:,=+::,,,,,,,,,,~:,,:,:.,:,,.:?$~,I8DDDDDD7
+             NNNNNNNN8:~=,::=~=,::~,:.,,,,,.,.:,,~I$=,,,O8DDDDDDDD+
+           DNNNNNNNNNN8~~~::::~,::~~,,,,,,:,,,.::::,~,=88DDDDDDDDDD
+          DNNNNNNNNNNNNZ,,,=~+$$,,:=,:~,,,.,,+?:,=,,,O88PADDDDDDDDDDN
+          NDNNNNNNNNNNNN8,,,,~::.~:+OZ+.,:7?,,,,,,,Z88D8DDDDDDDDDDDDDD,
+
+Rejse e kép a titkot azoknak, kik merszek a múlt sötétjébe venni rögös útjuk.
+Mert hol az Ő neve kezdődik, a legrövidebb a három közül, mely nem is áll több
+betűből, pont utána áll nagy kalandjának kezdete, hol Unalmas Romlott Lelkek vonják
+össze bolond rémálmaik tengerét.
+
+http://theravenpoe.com
