@@ -1,0 +1,247 @@
+::-moz-selection { background: #d0cbce; text-shadow: none; }
+::selection { background: #d0cbce; text-shadow: none; }
+
+@font-face {
+  font-family: 'DroidSerifRegular';
+  src: url('http://theravenpoe.com/font/DroidSerif-Regular-webfont.woff') format('woff'),
+       url('http://theravenpoe.com/font/DroidSerif-Regular-webfont.ttf') format('truetype'),
+       url('http://theravenpoe.com/font/DroidSerif-Regular-webfont.svg#DroidSerifRegular') format('svg');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'DroidSerifItalic';
+  src: url('http://theravenpoe.com/font/DroidSerif-Italic-webfont.woff') format('woff'),
+       url('http://theravenpoe.com/font/DroidSerif-Italic-webfont.ttf') format('truetype'),
+       url('http://theravenpoe.com/font/DroidSerif-Italic-webfont.svg#DroidSerifItalic') format('svg');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'DroidSerifBold';
+  src: url('http://theravenpoe.com/font/DroidSerif-Bold-webfont.woff') format('woff'),
+       url('http://theravenpoe.com/font/DroidSerif-Bold-webfont.ttf') format('truetype'),
+       url('http://theravenpoe.com/font/DroidSerif-Bold-webfont.svg#DroidSerifBold') format('svg');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'DroidSerifBoldItalic';
+  src: url('http://theravenpoe.com/font/DroidSerif-BoldItalic-webfont.woff') format('woff'),
+       url('http://theravenpoe.com/font/DroidSerif-BoldItalic-webfont.ttf') format('truetype'),
+       url('http://theravenpoe.com/font/DroidSerif-BoldItalic-webfont.svg#DroidSerifBoldItalic') format('svg');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'BixAntiqueScriptHMK';
+  src: url('http://theravenpoe.com/font/Bix-Antique-Script-HMK-webfont.eot');
+  src: url('http://theravenpoe.com/font/Bix-Antique-Script-HMK-webfont.eot?#iefix') format('embedded-opentype'),
+       url('http://theravenpoe.com/font/Bix-Antique-Script-HMK-webfont.woff') format('woff'),
+       url('http://theravenpoe.com/font/Bix-Antique-Script-HMK-webfont.ttf') format('truetype'),
+       url('http://theravenpoe.com/font/Bix-Antique-Script-HMK-webfont.svg#BixAntiqueScriptHMK') format('svg');
+  font-style: normal;
+  font-weight: 400;
+  unicode-range: U+0041-0059, U+0061-007a, U+00f3;
+}
+
+@font-face {
+  font-family: 'ElusiveIcons';
+  src: url('http://theravenpoe.com/font/Elusive-Icons.woff') format('woff'),
+       url('http://theravenpoe.com/font/Elusive-Icons.ttf') format('truetype'),
+       url('http://theravenpoe.com/font/Elusive-Icons.svg#Elusive-Icons') format('svg');
+  font-style: normal;
+  font-weight: 400;
+  unicode-range: U+e002;
+}
+
+[data-icon]:before {
+  content: attr(data-icon);
+  font-family: 'ElusiveIcons';
+  font-weight: 400;
+  line-height: 1;
+  speak: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  display: inline-block;
+  font-family: 'ElusiveIcons';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  text-decoration: inherit;
+  speak: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+li [class^="icon-"], li [class*=" icon-"] {
+  display: inline-block;
+  text-align: center;
+  width: 1.25em;
+}
+
+.icons { margin-left: 2.5em; text-indent: -.8em; }
+
+.icons li [class^="icon-"], .icons li [class*=" icon-"] { width: .8em; }
+
+.icon-youtube:before { color: #ae2b26; content: "\e002"; text-shadow: 0 1px 1px #bbb; }
+
+article, aside, footer { display: block; margin: auto; width: 92%; }
+
+html { background: #fcfcf4; color: #333; font: normal 100%/1.618 DroidSerifRegular, Georgia, serif; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+body { margin: 0; }
+
+h1, h2, h3 { color: #3c3316; }
+h2 { font-family: DroidSerifBold, Georgia, serif; font-weight: 400; }
+h3 { font-family: DroidSerifBoldItalic, Georgia, serif; font-weight: 400; }
+h1, article h2 { font-family: BixAntiqueScriptHMK; font-weight: 400; }
+i, cite { font-family: DroidSerifItalic; font-style: normal; }
+
+a { color: #a78009; font-family: DroidSerifItalic; font-style: normal; text-decoration: none; -webkit-transition: padding .2s ease-in, color .08s ease-in; transition: padding .2s ease-in, color .08s ease-in; }
+a:visited { color: #8b8068; }
+a:hover, a:focus { color: #c8a000; outline: 0; }
+a:active { color: #4f4629; outline: 0; }
+
+a:focus { outline: thin dotted; }
+dt a:hover, li a:hover { padding-left: .3em; }
+
+ul { list-style: none; margin-top: .5em; padding-left: 0; }
+ul a { display: inline-block; padding: .3em 0; }
+li { margin: 0; padding: 0; }
+dt { margin: -.1em 0 0 0; padding: .1em 0; }
+dt a { display: inline-block; }
+small { font-size: 80%; }
+img { border: 0; vertical-align: middle; }
+abbr[title] { border-bottom: 1px dotted; }
+
+h1 { font-size: 3em; margin-top: .67em; }
+h1+h2 { font-size: 1.6em; margin: -1em 0 1.5em 0; }
+h1, h1+h2 { text-shadow: 0 1px 1px #999; }
+
+aside h2, aside h3 { text-shadow: 0 1px 1px #ccc; }
+article { margin-bottom: 4em; }
+aside { margin-bottom: 3.5em; }
+article p { padding-bottom: 1em; white-space: nowrap; }
+
+dd { margin: -.4em 0 .7em 1.5em; text-indent: 0; }
+dl { margin: -.9em 0 3em; }
+
+h3 { font-size: 1.33em; }
+aside h2 { margin: 1.1em 0 0 0; font-size: 1.7em; }
+
+.ind { padding-left: 4.6em; }
+.nevermore { border-radius: 11.3em; box-shadow: 0 2px 5px rgba(0, 0, 0, .2); clear: both; display: block; margin: 3em 0 0; }
+.res { margin-top: 2.5em; margin-bottom: 1.3em; }
+.love { color: #ae2b26; }
+.icons { position: relative; }
+.icons img { border-radius: 100px; opacity: 0; position: absolute; top: 1.25em; left: 16em; -webkit-transition: opacity .8s ease-in-out; transition: opacity .8s ease-in-out; }
+.trans { float: none; font-family: DroidSerifItalic; }
+
+html[lang=hu] h1 { font-size: 2em; margin-top: 1.7em; }
+html[lang=hu] h1+h2 { font-size: 4.3em; margin: -.3em 0 .5em 0; padding: 0; }
+
+#valentine h1 { font-family: DroidSerifRegular, Georgia; text-transform: uppercase; font-size: 1.5em; margin: 1.4em; }
+#valentine p { margin: 2em; }
+#valentine img { border-radius: 50%; margin: 2em; }
+
+.ind2 { padding-left: 1em; }
+.fb-like { margin-right: 15px; }
+
+@media screen and (min-width:46.9em) {
+
+  html { font-size: 120%; }
+  article { width: 34em; }
+  html[lang=hu] article { width: 27em; }
+  aside, footer { width: 87%; }
+  article p { clear: both; padding-bottom: 2.5em; }
+  
+  h1 { font-size: 4em; }
+  h1+h2 { font-size: 2.1em; margin: -1.8em 0 1.5em 0; }
+  small { float: left; }
+  
+  footer { margin-bottom: -.7em; }
+  footer img { position: relative; bottom: 8px; left: 1.7em; }
+  
+  .ind { float: right; padding: 0; }
+  .nevermore { margin: 7em auto 0; }
+  .banner { background: url(http://theravenpoe.com/img/banner.jpg) center; background-size: cover; box-shadow: inset 0 -5px 20px rgba(0, 0, 0, .75); padding-top: 48.8556338028169%; }
+  .bottom { background: url(http://theravenpoe.com/img/footer.jpg) center; background-size: cover; box-shadow: inset 0 3px 10px rgba(0, 0, 0, .75); padding-top: 61.29032258064516%; }
+  
+  html[lang=hu] .nevermore { margin: 4em 0 0 4em; }
+  html[lang=hu] .ind { float: none; padding-left: 5.375em; }
+  #valentine h1 { text-align: center; }
+  #valentine img { display: block; margin: 2em auto; width: 222px; }
+  #valentine p { margin: 2em auto 4em; width: 24em; white-space: nowrap; }
+  
+}
+
+@media screen and (min-width:55em) {
+
+  aside, footer { width: 80%; }
+  h1, h1+h2 { margin-left: -8%; text-align: center; }
+  html[lang=hu] h1, html[lang=hu] h1+h2 { margin-left: 2%; }
+  h2 span { display: block; font-size: .7em; padding: .2em 0; margin-top: 1em; }
+  h1+h2 { font-size: 2.6em; }
+
+}
+
+@media screen and (min-width:60em) {
+
+  aside, footer { width: 70%; }
+  .bottomcont { height: 355px; overflow: hidden; position: relative; }
+  .bottom { background: url(http://theravenpoe.com/img/footer-slideshow.jpg); background-size: auto; box-shadow: none; height: 100%; width: 300%; position: absolute; top: 0; left: 0; -webkit-animation: Slideshow 300s linear infinite; }
+
+  @-webkit-keyframes Slideshow {
+    0% {
+      -webkit-transform: translateX(0);
+      transform: translateX(0);
+    }
+    100% {
+      -webkit-transform: translateX(-2163px);
+      transform: translateX(-2163px);
+    }
+  }
+
+  @keyframes Slideshow {
+    0% {
+      -webkit-transform: translateX(0);
+      transform: translateX(0);
+    }
+    100% {
+      -webkit-transform: translateX(-2163px);
+      transform: translateX(-2163px);
+    }
+  }
+
+}
+
+@media screen and (min-width:70em) {
+
+  aside, footer { width: 63%; }
+  .bannercont { height: 355px; overflow: hidden; position: relative; }
+  .banner { background: url(http://theravenpoe.com/img/slideshow.jpg); background-size: auto; box-shadow: none; height: 100%; width: 300%; position: absolute; top: 0; left: 0; -webkit-animation: Slideshow 300s linear infinite; }
+  html[lang=hu] .banner { background: url(http://theravenpoe.com/img/slideshow-magyar.jpg); }
+  .icons a:hover img { opacity: 1; }
+
+}
+
+@media screen and (min-width:77em) {
+
+  article, aside, footer { margin-left: 13%; }
+  aside, footer { width: 42em; }
+  h1 { margin-top: 1.1em; }
+  ul a { padding: .2em 0; }
+  .icons img { top: .5em; }
+
+}
+
+@media screen and (min-width:90em) {
+
+  article, aside, footer { margin-left: 17%;}
+  
+}
