@@ -1,4 +1,4 @@
 theravenpoe
 ===========
 
-MiniSite dedicated the Edgar Allan Poe's famous poem
+Just a lovely minisite dedicated to “The Raven” by Edgar Allan Poe
