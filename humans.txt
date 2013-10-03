@@ -1,0 +1,133 @@
+﻿Personal message from the site's author
+
+Hi there,
+
+This is a lovely little text file in which I can show you
+that this site was indeed created by my love for litarature,
+culture and the memorable character of Edgar Allan Poe.
+Back in school I've won a poetry recital contest with
+(guess what?) “The Raven” and I still know it by heart.
+
+The poem is a masterpiece. Yet I encourage you to read
+the short stories and the other poems as well. You could
+also check out the movies directed by Roger Corman.
+
+The Fall of the House of Usher (1960)
+The Pit and the Pendulum (1961)
+The Premature Burial (1962)
+Tales of Terror (1962)
+The Haunted Palace (1963)
+The Raven (1963)
+The Masque of the Red Death (1964)
+The Tomb of Ligeia (1964)
+
+(Psst...None of these are on YouTube and I'm no movie fan.)
+
+If you have any suggestions, great links or translations,
+feel free to get in touch to make the web more awesome, or
+just say thanks. It'd make me feel good and that this site
+was worth making. :) Cheers!
+
+Best wishes from Hungary
+
+
+
+
+/* TEAM */
+
+Web designer: Zámbó Gergő
+Mail: zambo_gergo@hotmail.com
+Location: Budapest, Hungary.
+
+/* THANKS */
+
+Edgar Allan Poe
+
+/* SITE */
+
+Last update: 2013/05/20
+Standards: HTML5, CSS3
+Components: HTML5 Boilerplate, Normalize.css
+Software: Adobe Photoshop, Notepad++, Typecast, Brain
+
+/* IMAGES */
+
+Photo of Vincent Price by ProfessorMortis (http://www.flickr.com/photos/49503022659@N01/464565596)
+	License: http://creativecommons.org/licenses/by-nc/2.0/
+
+Photo of James Earl Jones by Stuart Crawford
+	License: http://creativecommons.org/licenses/by/2.0/deed.en
+
+Photo of Christopher Lee by Manfred Werner (http://commons.wikimedia.org/wiki/User:Tsui)
+	License: http://creativecommons.org/licenses/by-sa/3.0/deed.en
+	
+The rest is in the Public Domain. Cheers!
+(If not, please contact me and torture me good. Thank you!)
+
+
+
+
+                                              =7OO8ZO888:
+                                     ,88DDD8OO88O88DD8O~88
+                                 $NDDDD8O$ZZ$77O8DDD8DDD8D.O
+                               DDNNDD88OIZZ8O88DDDD8DDDDD888O8
+                       8DDDDODNNDDND8D8O7?+$88DDDD8DDDDDDDDDDDD~
+                   88O8ODDN8DDDNNNNDDD88OI8O8DDDDDDDDDD8DO8DDDDZ
+                ,NDD8DDDNDOOO$Z8DDNDDO$88DDD8DDDDNDDDDDDD8DDDDDNDO
+              ZNNNDDDZZ88I?=7++++?+??$777ZOOODNDDNNDD8DNNNOZDNNNNNDN
+             DNND$8D8DO7+~:~::::::,:,,,,:::=$8DDDNNNNNNNNNN8NNNNNND...:
+           DDDOODDNDDI=~~:::,:,,,,,,,,,,,,,,,:==$8DDDDNNNNNNNNNNNNNNNDI
+          DDDDNNNDO7=~::::,:,,,,,,,,,,,,,,,,,,::~~~=??7$Z8NNNNNNNNNMMDO
+        Z8DDNNNNNO?=~:::::,,,,,,,,,.,,,,,,,,,,,,:::::~=~=I7ZDNNDDDNMM8D
+       DDD8DNNNND7=~~::::,,,,,,,,,,,,,,,,,,,,,,:::::~:=~==I$8NNNZONNMNND
+      DD8DDDNMNNO+~~~~::,,::,,,,,,,,,,,,,,,,,,,,::::~~~~==?7ONNNNNNNND=
+     DNDDPTNNMNNZ+=~::::::::,::,,,,,,,,,,,,,,::::::::~~~=?II$NNNMMNNNNN
+     DNND8DDNDNN7==~~~~:::::::::::,::::::::,:,::::::~:~=~+7$ONNNNN8NDO8
+     NNNDNDDNONN$?==~~~~:::::::::::::::::::::::::~:::~~~=+?7ODNNNN8DDD8=
+     NNNNNDNDNNNO?+~~~~::::::~:::::::::~~::::::::~:~::~=++I$8NNNNNDNNNN
+     8NNNNNNNMNNOI+=~~~::::::~:::::::::~~~:~:::~::::::~~=?7ZDNNNODDDNNNZ
+    8 NNNNNNMNNDDI+==~::::::::::::~:::~:~~:~::::::::,::~~?7I8NNNNNODONDO
+    DNNNDNMNMNMNN7+==~~::::::::::~~~~~~:=~~::::::::,:::~~=+IDNNNNN8DDD88
+    8NNN8NDNMNMMN7=+~~:~~~~=I7O8NNDO$=::~~~?$D8Z8Z$$ZI=~=???DNNNNDDNNNDD.O
+     DNNNDNMNN8NNI===~?I7ONDNDDDDDNNZ:,,:~IDNNDDNND8$$DD+++?DNNNNNZDNMNNN8
+     =NN88NMNNNMN?=~~=++7D$NN?NNOD8DD:,,:+IO8DONNNN$ZOI$$~:?NNNNNNNNNDMN
+     NNNNNDDMNMNN?=::~$DDD7~8OI~I+=7=:,,:+IZ~7$~8NO~$ODZI::=DNMMNN8NNMNDO
+   77NMMNNNNDNMNN7=~:::::~+=~~~+==~++:,::++~::~:,:~:+$7?~::=DNNMNN8NDNNNN8
+     NNNNNNDNNMNN7=~~~::::::~~===~~~=:,:~+=:::::::==~==~:::INNNNN8ONNNDNN8
+     DDNNNNNMNMNN?=~~:::::::~=+~::~~~:::=+=:,::::::~~=~:::~?NNNDNNDNNNNN
+     DNNNNMNNNNM8~==~:::::::::,:::~~~::~=?+~:,:::===::::::~?8DNNNNNNDDNNN
+     N8NNNMNMN88D~==~~:~::::::::~~=~::,:=+I~::::,,,,:,::~+I+8DZNNNNNNNND.Z
+      ONNNNMNNOI~~=~=~~~:::~::::=I::::::~+=+=~:::::,:~~==??=$$7DNNNNNDO88
+     8NNNMNNNNO~=~=+=~~~~::::~~??+~~:,::~===?~:~::::~~==?I+:~IZDNNNNNNNN
+       NNNNNNNN$~~~+=~~~=~~~=~=~::D?~~~~+?OO~~:::~~~~==+??~,,7NNNNNNNDZ
+      DDONNMMNNN8+=++=~~~~~~~::::~8ND888NN8=::::~~~~=~=???:,=DNNNNND7,
+      DZD88NMPEMMNO?+===~~~::::~=ODNDNNNNNO~::::~:~~~==+++O8DNNDDDD87
+         DNNNMMMMMN+====~~:::~77??88888DDDD?=~:::::::~~=++NDNNNNDO~
+            NNNNNMNI==~~:::,~ZNNDDDDO+=ID88Z7?+:::,::~=?=OND8OZ
+               DNMNZI+==~:::~$I~~~:,,:~~=ZDDNNN=::::~=+??DNI$
+                   +7?+===~===~:::~=?+?===?=+IZ+:~~~~++??   
+                    ~7II++===~~~~::,::::~~~~~:~:~~=~=??:
+                   ,:DZ7I?+=~~:::,:,,,,,,,::~~~:=+=++I::
+                    :8OZ7?++~~~:::,:::::,::~~===+I+?$:.=
+                    ~,I$ZI7?+=~~::::::::::::=+?I77ZO,..$
+                    +,,:IO77I7I+===~~~~~~~~~=IZZ$DI,...::
+                    =:,,,+7Z77ZO88$II?I7I+IZZZ$DD:,...:,~
+                    =?,,,,~=?Z8ZZZOO8OO8OZOOOOD8,,...:,+=~
+                  NN$~$~,,,,~=+7O8D888O88DD8DDZ,,.,~~:$=:~8D+
+                $NNN?~,=OD8~,,,~+ZZ8O888D888$~:=$$+:I:,~~~8D8DD
+               +NMNN==:=,ZOO8Z88$7=7I77$77OZI?$O?=+,,:,:+:OD8DD
+               NNNNN++~,,=~78+::~+$OOZ?+=::IO+,?=,:,,:=,~7+D8DD8
+              NNMNNNI+::~,,:~:I$ZOZ+~==,:,,:~+:,,,,::,:I+,ODDDDD
+             NNNNNNNN==:,=+::,,,,,,,,,,~:,,:,:.,:,,.:?$~,I8DDDDDD7
+             NNNNNNNN8:~=,::=~=,::~,:.,,,,,.,.:,,~I$=,,,O8DDDDDDDD+
+           DNNNNNNNNNN8~~~::::~,::~~,,,,,,:,,,.::::,~,=88DDDDDDDDDD
+          DNNNNNNNNNNNNZ,,,=~+$$,,:=,:~,,,.,,+?:,=,,,O88PADDDDDDDDDDN
+          NDNNNNNNNNNNNN8,,,,~::.~:+OZ+.,:7?,,,,,,,Z88D8DDDDDDDDDDDDDD,
+		  
+Shall this picture hide the secret, for those who dare to
+take the journey into the deep darkness of the past. For where
+his name begins, the shortest of all 3, the one that consists
+of no more letters either, right after lies the beginning of his
+grand tale, Uttered by a Rotten Lover, to abbreviate thy foolish nightmare.
+
+http://theravenpoe.com
