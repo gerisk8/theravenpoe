@@ -126,7 +126,7 @@ h1, h1+h2 { text-shadow: 0 1px 1px #999; }
 aside h2, aside h3 { text-shadow: 0 1px 1px #ccc; }
 article { margin-bottom: 4em; }
 aside { margin-bottom: 3.5em; }
-article p { padding-bottom: 1em; white-space: nowrap; }
+article p { padding-bottom: 0.5em; white-space: nowrap; line-height: 145%;}
 
 dd { margin: -.4em 0 .7em 1.5em; text-indent: 0; }
 dl { margin: -.9em 0 3em; }
@@ -158,26 +158,26 @@ html[lang=hu] h1+h2 { font-size: 4.3em; margin: -.3em 0 .5em 0; padding: 0; }
   article { width: 34em; }
   html[lang=hu] article { width: 27em; }
   aside, footer { width: 87%; }
-  article p { clear: both; padding-bottom: 2.5em; }
-  
+  article p { clear: both; padding-bottom: 1.8em; }
+
   h1 { font-size: 4em; }
   h1+h2 { font-size: 2.1em; margin: -1.8em 0 1.5em 0; }
   small { float: left; }
-  
+
   footer { margin-bottom: -.7em; }
   footer img { position: relative; bottom: 8px; left: 1.7em; }
-  
+
   .ind { float: right; padding: 0; }
   .nevermore { margin: 7em auto 0; }
   .banner { background: url(http://theravenpoe.com/img/banner.jpg) center; background-size: cover; box-shadow: inset 0 -5px 20px rgba(0, 0, 0, .75); padding-top: 48.8556338028169%; }
   .bottom { background: url(http://theravenpoe.com/img/footer.jpg) center; background-size: cover; box-shadow: inset 0 3px 10px rgba(0, 0, 0, .75); padding-top: 61.29032258064516%; }
-  
+
   html[lang=hu] .nevermore { margin: 4em 0 0 4em; }
   html[lang=hu] .ind { float: none; padding-left: 5.375em; }
   #valentine h1 { text-align: center; }
   #valentine img { display: block; margin: 2em auto; width: 222px; }
   #valentine p { margin: 2em auto 4em; width: 24em; white-space: nowrap; }
-  
+
 }
 
 @media screen and (min-width:55em) {
@@ -243,5 +243,5 @@ html[lang=hu] h1+h2 { font-size: 4.3em; margin: -.3em 0 .5em 0; padding: 0; }
 @media screen and (min-width:90em) {
 
   article, aside, footer { margin-left: 17%;}
-  
+
 }
