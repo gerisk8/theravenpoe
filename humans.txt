@@ -2,11 +2,8 @@
 
 Hi there,
 
-This is a lovely little text file in which I can show you
-that this site was indeed created by my love for litarature,
-culture and the memorable character of Edgar Allan Poe.
-Back in school I've won a poetry recital contest with
-(guess what?) “The Raven” and I still know it by heart.
+This is a lovely little text file from the humble author
+of this website.
 
 The poem is a masterpiece. Yet I encourage you to read
 the short stories and the other poems as well. You could
@@ -45,7 +42,7 @@ Edgar Allan Poe
 
 /* SITE */
 
-Last update: 2013/05/20
+Last update: 2013/11/17
 Standards: HTML5, CSS3
 Components: HTML5 Boilerplate, Normalize.css
 Software: Adobe Photoshop, Notepad++, Typecast, Brain
@@ -60,7 +57,7 @@ Photo of James Earl Jones by Stuart Crawford
 
 Photo of Christopher Lee by Manfred Werner (http://commons.wikimedia.org/wiki/User:Tsui)
 	License: http://creativecommons.org/licenses/by-sa/3.0/deed.en
-	
+
 The rest is in the Public Domain. Cheers!
 (If not, please contact me and torture me good. Thank you!)
 
@@ -105,7 +102,7 @@ The rest is in the Public Domain. Cheers!
          DNNNMMMMMN+====~~:::~77??88888DDDD?=~:::::::~~=++NDNNNNDO~
             NNNNNMNI==~~:::,~ZNNDDDDO+=ID88Z7?+:::,::~=?=OND8OZ
                DNMNZI+==~:::~$I~~~:,,:~~=ZDDNNN=::::~=+??DNI$
-                   +7?+===~===~:::~=?+?===?=+IZ+:~~~~++??   
+                   +7?+===~===~:::~=?+?===?=+IZ+:~~~~++??
                     ~7II++===~~~~::,::::~~~~~:~:~~=~=??:
                    ,:DZ7I?+=~~:::,:,,,,,,,::~~~:=+=++I::
                     :8OZ7?++~~~:::,:::::,::~~===+I+?$:.=
@@ -123,7 +120,7 @@ The rest is in the Public Domain. Cheers!
            DNNNNNNNNNN8~~~::::~,::~~,,,,,,:,,,.::::,~,=88DDDDDDDDDD
           DNNNNNNNNNNNNZ,,,=~+$$,,:=,:~,,,.,,+?:,=,,,O88PADDDDDDDDDDN
           NDNNNNNNNNNNNN8,,,,~::.~:+OZ+.,:7?,,,,,,,Z88D8DDDDDDDDDDDDDD,
-		  
+
 Shall this picture hide the secret, for those who dare to
 take the journey into the deep darkness of the past. For where
 his name begins, the shortest of all 3, the one that consists

@@ -53,7 +53,7 @@ A magyartanárom
 
 /* OLDAL */
 
-Utolsó frissítés: 2013/05/20
+Utolsó frissítés: 2013/11/17
 Szabványok: HTML5, CSS3
 Komponensek: HTML5 Boilerplate, Normalize.css
 Programok: Adobe Photoshop, Notepad++, Typecast
@@ -98,7 +98,7 @@ Programok: Adobe Photoshop, Notepad++, Typecast
          DNNNMMMMMN+====~~:::~77??88888DDDD?=~:::::::~~=++NDNNNNDO~
             NNNNNMNI==~~:::,~ZNNDDDDO+=ID88Z7?+:::,::~=?=OND8OZ
                DNMNZI+==~:::~$I~~~:,,:~~=ZDDNNN=::::~=+??DNI$
-                   +7?+===~===~:::~=?+?===?=+IZ+:~~~~++??   
+                   +7?+===~===~:::~=?+?===?=+IZ+:~~~~++??
                     ~7II++===~~~~::,::::~~~~~:~:~~=~=??:
                    ,:DZ7I?+=~~:::,:,,,,,,,::~~~:=+=++I::
                     :8OZ7?++~~~:::,:::::,::~~===+I+?$:.=
