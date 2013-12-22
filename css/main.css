@@ -155,7 +155,7 @@ html[lang=hu] h1+h2 { font-size: 4.3em; margin: -.3em 0 .5em 0; padding: 0; }
 
 @media screen and (min-width:46.9em) {
 
-  html { font-size: 120%; }
+  html { font-size: 120%; text-rendering: optimizeLegibility; }
   article { width: 34em; }
   html[lang=hu] article { width: 27em; }
   aside, footer { width: 87%; }
