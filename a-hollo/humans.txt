@@ -53,7 +53,7 @@ A magyartanárom
 
 /* OLDAL */
 
-Utolsó frissítés: 2013/11/17
+Utolsó frissítés: 2014/03/16
 Szabványok: HTML5, CSS3
 Komponensek: HTML5 Boilerplate, Normalize.css
 Programok: Adobe Photoshop, Notepad++, Typecast
